@@ -5,7 +5,7 @@
 - 🤔 Tentando entender Objetos Orientados em Python;
 - 💬 Sinta-se a vontade para me perguntar ou conversar comigo;
 - 📫 Meu email profissional é workaires@gmail.com;
-- 📘 [Currículo](https://drive.google.com/file/d/1h3ZWPjoaY-gbhLajx7g6a6Vn9UYagyxx/view?usp=sharing);
+- 📘 [Currículo](https://drive.google.com/file/d/1h3ZWPjoaY-gbhLajx7g6a6Vn9UYagyxx/view?usp=drive_link);
 
 <div>
   <a href="https://github.com/GuiAires">
