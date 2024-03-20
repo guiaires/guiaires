@@ -1,11 +1,11 @@
 ### Olá 👋🏻, eu sou o Guilherme!
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas;
-- 🌱 Atualmente estou estudando Python, Java, JavaScript, CSS, HTML e PHP;
-- 🤔 Tentando entender Objetos Orientados em Java;
+- 🌱 Atualmente estou estudando Python, C, PHP e Django;
+- 🤔 Tentando entender Objetos Orientados em Python;
 - 💬 Sinta-se a vontade para me perguntar ou conversar comigo;
 - 📫 Meu email profissional é workaires@gmail.com;
-- 📘 [Currículo](https://drive.google.com/file/d/1XynpNNx5f7g_A-m-G4QGt0BkZD_52jTr/view?usp=share_link);
+- 📘 [Currículo](https://drive.google.com/file/d/1h3ZWPjoaY-gbhLajx7g6a6Vn9UYagyxx/view?usp=sharing);
 
 <div>
   <a href="https://github.com/GuiAires">
@@ -20,7 +20,7 @@
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-DJANGO" height="30" width="40" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg">
-  <img align="right" alt="Gui-Gif" height="120" width="130" style="border-radius:60px;" src="https://files.catbox.moe/9m2f63.gif">
+  <img align="right" alt="Gui-Gif" height="120" width="130" style="border-radius:50px;" src="https://files.catbox.moe/9m2f63.gif">
 </div>
   
   ##
