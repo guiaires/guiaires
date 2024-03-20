@@ -19,7 +19,7 @@
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-DJANGO" height="30" width="40" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg">
+  <img align="center" alt="Gui-DJANGO" height="30" width="40" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg">
   <img align="right" alt="Gui-Gif" height="120" width="130" style="border-radius:50px;" src="https://files.catbox.moe/9m2f63.gif">
 </div>
   
